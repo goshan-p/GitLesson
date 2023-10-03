@@ -1,0 +1,6 @@
+hello.o:
+    g++ hello.cpp -c
+lib.o:
+    g++ lib.cpp -c
+main.out:
+    g++ hello.o lib.o
