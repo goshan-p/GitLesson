@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
-  // Получить ввод от пользователя
+
   int N = 0;
   int m = 0;
   int k = 0;
